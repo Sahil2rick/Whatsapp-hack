@@ -8,7 +8,9 @@
 ![](https://img.shields.io/github/last-commit/Sahil2rick/Whatsapp-hack)
 ![](http://hits.dwyl.com/Sahil2rick/Whatsapp-hack)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
-  Public IP from victim caller.
+
+
+Public IP from victim caller.
 
 This program is for Educational purpose ONLY. Do not use it without permission. I am not responsible for any of your actions. Use this tool with caution.
 
