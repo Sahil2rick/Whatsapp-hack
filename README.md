@@ -1,4 +1,4 @@
-# 🔥 New WhatsApp Hack!  🔥
+# New WhatsApp Hack! 
   Public IP from victim caller.
 
 This program is for Educational purpose ONLY. Do not use it without permission. I am not responsible for any of your actions. Use this tool with caution.
@@ -29,7 +29,7 @@ sudo hotspotd start
 - Step 7: Script will reveal the public IP address of the target
 - Step 8: Validate the public IP address on target phone
 
-## Exploit
+# Exploit
 
 ```
 #!/bin/sh
