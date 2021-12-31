@@ -54,6 +54,3 @@ done
 
 
 ```
-## Credit
-
-## [bhdresh](https://github.com/bhdresh)
