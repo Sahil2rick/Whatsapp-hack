@@ -5,7 +5,7 @@ This program is for Educational purpose ONLY. Do not use it without permission. 
 
 ## Attack the victim ##
 
-Install hotspotd with these steps:
+## Install hotspotd with these steps:
 ```
 wget https://github.com/prahladyeri/hotspotd/raw/master/dist/hotspotd-latest.tar.gz
 tar xvf hotspotd-latest.tar.gz
