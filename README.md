@@ -1,9 +1,9 @@
-# 🔥 New WhatsApp Hack! (Leak Public IP Addresses) 🔥
-Leak Public IP from victim caller.
+# 🔥 New WhatsApp Hack!  🔥
+  Public IP from victim caller.
 
 This program is for Educational purpose ONLY. Do not use it without permission. I am not responsible for any of your actions. Use this tool with caution.
 
-## Attack the victim
+## Attack the victim ##
 
 Install hotspotd with these steps:
 ```
